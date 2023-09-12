@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BTTest_for_Accolite/1.0.0": {
+        "runtime": {
+          "BTTest_for_Accolite.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BTTest_for_Accolite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

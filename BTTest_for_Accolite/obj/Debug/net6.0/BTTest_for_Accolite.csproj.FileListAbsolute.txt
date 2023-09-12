@@ -1,0 +1,15 @@
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.csproj.AssemblyReference.cache
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.AssemblyInfoInputs.cache
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.AssemblyInfo.cs
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.csproj.CoreCompileInputs.cache
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\bin\Debug\net6.0\BTTest_for_Accolite.exe
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\bin\Debug\net6.0\BTTest_for_Accolite.deps.json
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\bin\Debug\net6.0\BTTest_for_Accolite.runtimeconfig.json
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\bin\Debug\net6.0\BTTest_for_Accolite.dll
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\bin\Debug\net6.0\BTTest_for_Accolite.pdb
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.dll
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\refint\BTTest_for_Accolite.dll
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.pdb
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\BTTest_for_Accolite.genruntimeconfig.cache
+D:\project\BT_Test\BTTest_for_Accolite\BTTest_for_Accolite\obj\Debug\net6.0\ref\BTTest_for_Accolite.dll

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BTTest_for_Accolite": {
+      "commandName": "Project",
+      "commandLineArgs": "5C,2D,7H,TS,JS, JR"
+    }
+  }
+}
